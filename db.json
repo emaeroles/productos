@@ -1,4 +1,5 @@
-[
+{
+"all": [
     {
         "codigo": "P-TOR-001",
         "nombre": "Torno Pichichus",
@@ -230,3 +231,4 @@
         "activo": true
     }
 ]
+}
