@@ -3,232 +3,62 @@
         {
             "codigo": "P-TOR-001",
             "nombre": "Torno Pichichus",
-            "descripcion": "Es un torno no un tornillo",
-            "precio_compra": "150.00",
-            "precio_mayorista": "170.00",
-            "precio_minorista": "200.00",
-            "imageURL": "https://imagen-url.com",
-            "dimensiones": "string",
-            "peso": "string",
-            "material": "string",
-            "color": "Rojo river",
-            "paisOrigen": "Argentina",
-            "marca": {
-                "codigo": "M-VER-001",
-                "nombre": "Vertex"
-            },
-            "categorias": [
-                {
-                    "codigo": "C-FER-001",
-                    "nombre": "Ferretería"
-                }
-            ],
-            "ofertas": [
-                {
-                    "codigo": "string",
-                    "nombre": "string",
-                    "descripcion": "string",
-                    "precio_oferta": 0,
-                    "activo": true,
-                    "codigo_producto": "string"
-                }
-            ],
-            "descuentos": [
-                {
-                    "codigo": "string",
-                    "nombre": "string",
-                    "descripcion": "string",
-                    "precio_min": 0,
-                    "precio_top": 0,
-                    "codigo_producto": "string",
-                    "activo": true
-                }
-            ],
-            "activo": true
         },
         {
             "codigo": "P-TOR-002",
             "nombre": "Torno Pichichus",
-            "descripcion": "Es un torno no un tornillo",
-            "precio_compra": "150.00",
-            "precio_mayorista": "170.00",
-            "precio_minorista": "200.00",
-            "imageURL": "https://imagen-url.com",
-            "dimensiones": "string",
-            "peso": "string",
-            "material": "string",
-            "color": "Rojo river",
-            "paisOrigen": "Argentina",
-            "marca": {
-                "codigo": "M-VER-001",
-                "nombre": "Vertex"
-            },
-            "categorias": [
-                {
-                    "codigo": "C-FER-001",
-                    "nombre": "Ferretería"
-                }
-            ],
-            "ofertas": [
-                {
-                    "codigo": "string",
-                    "nombre": "string",
-                    "descripcion": "string",
-                    "precio_oferta": 0,
-                    "activo": true,
-                    "codigo_producto": "string"
-                }
-            ],
-            "descuentos": [
-                {
-                    "codigo": "string",
-                    "nombre": "string",
-                    "descripcion": "string",
-                    "precio_min": 0,
-                    "precio_top": 0,
-                    "codigo_producto": "string",
-                    "activo": true
-                }
-            ],
-            "activo": true
         },
         {
             "codigo": "P-TOR-003",
             "nombre": "Torno Pichichus",
-            "descripcion": "Es un torno no un tornillo",
-            "precio_compra": "150.00",
-            "precio_mayorista": "170.00",
-            "precio_minorista": "200.00",
-            "imageURL": "https://imagen-url.com",
-            "dimensiones": "string",
-            "peso": "string",
-            "material": "string",
-            "color": "Rojo river",
-            "paisOrigen": "Argentina",
-            "marca": {
-                "codigo": "M-VER-001",
-                "nombre": "Vertex"
-            },
-            "categorias": [
-                {
-                    "codigo": "C-FER-001",
-                    "nombre": "Ferretería"
-                }
-            ],
-            "ofertas": [
-                {
-                    "codigo": "string",
-                    "nombre": "string",
-                    "descripcion": "string",
-                    "precio_oferta": 0,
-                    "activo": true,
-                    "codigo_producto": "string"
-                }
-            ],
-            "descuentos": [
-                {
-                    "codigo": "string",
-                    "nombre": "string",
-                    "descripcion": "string",
-                    "precio_min": 0,
-                    "precio_top": 0,
-                    "codigo_producto": "string",
-                    "activo": true
-                }
-            ],
-            "activo": true
         },
         {
             "codigo": "P-TOR-004",
             "nombre": "Torno Pichichus",
-            "descripcion": "Es un torno no un tornillo",
-            "precio_compra": "150.00",
-            "precio_mayorista": "170.00",
-            "precio_minorista": "200.00",
-            "imageURL": "https://imagen-url.com",
-            "dimensiones": "string",
-            "peso": "string",
-            "material": "string",
-            "color": "Rojo river",
-            "paisOrigen": "Argentina",
-            "marca": {
-                "codigo": "M-VER-001",
-                "nombre": "Vertex"
-            },
-            "categorias": [
-                {
-                    "codigo": "C-FER-001",
-                    "nombre": "Ferretería"
-                }
-            ],
-            "ofertas": [
-                {
-                    "codigo": "string",
-                    "nombre": "string",
-                    "descripcion": "string",
-                    "precio_oferta": 0,
-                    "activo": true,
-                    "codigo_producto": "string"
-                }
-            ],
-            "descuentos": [
-                {
-                    "codigo": "string",
-                    "nombre": "string",
-                    "descripcion": "string",
-                    "precio_min": 0,
-                    "precio_top": 0,
-                    "codigo_producto": "string",
-                    "activo": true
-                }
-            ],
-            "activo": true
         },
         {
             "codigo": "P-TOR-005",
             "nombre": "Torno Pichichus",
-            "descripcion": "Es un torno no un tornillo",
-            "precio_compra": "150.00",
-            "precio_mayorista": "170.00",
-            "precio_minorista": "200.00",
-            "imageURL": "https://imagen-url.com",
-            "dimensiones": "string",
-            "peso": "string",
-            "material": "string",
-            "color": "Rojo river",
-            "paisOrigen": "Argentina",
-            "marca": {
-                "codigo": "M-VER-001",
-                "nombre": "Vertex"
-            },
-            "categorias": [
-                {
-                    "codigo": "C-FER-001",
-                    "nombre": "Ferretería"
-                }
-            ],
-            "ofertas": [
-                {
-                    "codigo": "string",
-                    "nombre": "string",
-                    "descripcion": "string",
-                    "precio_oferta": 0,
-                    "activo": true,
-                    "codigo_producto": "string"
-                }
-            ],
-            "descuentos": [
-                {
-                    "codigo": "string",
-                    "nombre": "string",
-                    "descripcion": "string",
-                    "precio_min": 0,
-                    "precio_top": 0,
-                    "codigo_producto": "string",
-                    "activo": true
-                }
-            ],
-            "activo": true
+        },
+        {
+            "codigo": "P-TOR-006",
+            "nombre": "Torno Pichichus",
+        },
+        {
+            "codigo": "P-TOR-007",
+            "nombre": "Torno Pichichus",
+        },
+        {
+            "codigo": "P-TOR-008",
+            "nombre": "Torno Pichichus",
+        },
+        {
+            "codigo": "P-TOR-009",
+            "nombre": "Torno Pichichus",
+        },
+        {
+            "codigo": "P-TOR-010",
+            "nombre": "Torno Pichichus",
+        },
+        {
+            "codigo": "P-TOR-011",
+            "nombre": "Torno Pichichus"
+        },
+        {
+            "codigo": "P-TOR-012",
+            "nombre": "Torno Pichichus",
+        },
+        {
+            "codigo": "P-TOR-013",
+            "nombre": "Torno Pichichus",
+        },
+        {
+            "codigo": "P-TOR-014",
+            "nombre": "Torno Pichichus",
+        },
+        {
+            "codigo": "P-TOR-015",
+            "nombre": "Torno Pichichus",
         }
     ]
 }
