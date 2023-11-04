@@ -2,63 +2,63 @@
     "all": [
         {
             "codigo": "P-TOR-001",
-            "nombre": "Torno Pichichus",
+            "nombre": "Torno Pichichus 1",
         },
         {
             "codigo": "P-TOR-002",
-            "nombre": "Torno Pichichus",
+            "nombre": "Torno Pichichus 2",
         },
         {
             "codigo": "P-TOR-003",
-            "nombre": "Torno Pichichus",
+            "nombre": "Torno Pichichus 3",
         },
         {
             "codigo": "P-TOR-004",
-            "nombre": "Torno Pichichus",
+            "nombre": "Torno Pichichus 4",
         },
         {
             "codigo": "P-TOR-005",
-            "nombre": "Torno Pichichus",
+            "nombre": "Torno Pichichus 5",
         },
         {
             "codigo": "P-TOR-006",
-            "nombre": "Torno Pichichus",
+            "nombre": "Torno Pichichus 6",
         },
         {
             "codigo": "P-TOR-007",
-            "nombre": "Torno Pichichus",
+            "nombre": "Torno Pichichus 7",
         },
         {
             "codigo": "P-TOR-008",
-            "nombre": "Torno Pichichus",
+            "nombre": "Torno Pichichus 8",
         },
         {
             "codigo": "P-TOR-009",
-            "nombre": "Torno Pichichus",
+            "nombre": "Torno Pichichus 9",
         },
         {
             "codigo": "P-TOR-010",
-            "nombre": "Torno Pichichus",
+            "nombre": "Torno Pichichus 10",
         },
         {
             "codigo": "P-TOR-011",
-            "nombre": "Torno Pichichus"
+            "nombre": "Torno Pichichus 11"
         },
         {
             "codigo": "P-TOR-012",
-            "nombre": "Torno Pichichus",
+            "nombre": "Torno Pichichus 12",
         },
         {
             "codigo": "P-TOR-013",
-            "nombre": "Torno Pichichus",
+            "nombre": "Torno Pichichus 13",
         },
         {
             "codigo": "P-TOR-014",
-            "nombre": "Torno Pichichus",
+            "nombre": "Torno Pichichus 14",
         },
         {
             "codigo": "P-TOR-015",
-            "nombre": "Torno Pichichus",
+            "nombre": "Torno Pichichus 15",
         }
     ]
 }
